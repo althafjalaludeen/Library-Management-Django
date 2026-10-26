@@ -1,0 +1,35 @@
+### API Call for Good Morning
+
+###
+
+GET http://127.0.0.1:8000/good-morning/
+
+### API Call for Library Information
+
+###
+
+GET http://127.0.0.1:8000/library-info/
+
+### API Call for Book Information
+
+###
+
+GET http://127.0.0.1:8000/book-info/
+
+### API Call for Student Information
+
+###
+
+GET http://127.0.0.1:8000/student/
+
+### API Call for All Books
+
+###
+
+GET http://127.0.0.1:8000/all-books/
+
+### API Call for Employee Information
+
+###
+
+GET http://127.0.0.1:8000/employee/
